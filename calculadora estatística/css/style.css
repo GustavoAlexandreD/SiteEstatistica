@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+:root{
+    --corLetra: #ffffff;
+    --corFundo:#6b6262;
+}
+
+header{
+    background-color: var(--corFundo) ;
+    color: var(--corLetra);
+}
+
+footer{
+    background-color: var(--corFundo) ;
+    color: var(--corLetra);
+}
+
+
+
